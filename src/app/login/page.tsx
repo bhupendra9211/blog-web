@@ -30,9 +30,8 @@ const Login = () => {
   };
 
   return (
-    <div className="flex items-center justify-center h-screen bg-gradient-to-r from-purple-500 to-blue-500 relative">
-      {/* Background blur */}
-      <div className="absolute inset-0 bg-black opacity-30 blur-xl"></div>
+    <div className="flex items-center justify-center h-screen bg-gray-100">
+      
 
       {/* Login Form */}
       <form
